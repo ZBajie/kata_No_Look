@@ -7,7 +7,7 @@
   ul {
     list-style: none;
     li {
-      padding: $padding-primary / 2;
+      padding: calc($padding-primary / 2);
     }
   }
 }
