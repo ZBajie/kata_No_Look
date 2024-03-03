@@ -1,0 +1,15 @@
+.check {
+  width: fit-content;
+  background-color: $background-color-secondary;
+  margin: $margin-secondary;
+  padding: $padding-secondary;
+  border-radius: $border-radius-primary;
+  label {
+    margin-right: $margin-primary;
+  }
+  div {
+    margin-top: $margin-primary;
+    display: flex;
+    flex-direction: row;
+  }
+}

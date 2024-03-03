@@ -4,6 +4,10 @@ Try to get stuff done without searching.
 
 1.set up Vite and sass with structure.
 
+2. Header component.
+
+3. Animal List component.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
